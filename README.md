@@ -10,8 +10,10 @@ The repository is organized around two research lines:
 ## [(Disease) Outcomes](https://github.com/mauricezeegers/disease-outcomes)
 
 # Oncology
-Projects: UKBiobank, BCPP.
+Projects: UKBiobank, BCPP
+
 PhD Researchers: Anna-Roos Leerschool, Iris Boot, Manuel Origgi, Xiaoman Jin, Evan Wu, Yanan Dai, Yiming Chen, Yufeng Rao
+
 1.	Yu, Minghao, Anshita Goel, Benjamin Tura, e.a. ‘Towards Epigenetic-Based Subtyping of Bladder Cancer: DNA Methylation Predicts Molecular Subtypes of Non-Muscle-Invasive Bladder Cancer’. European Urology, 7 maart 2025, S0302-2838(25)00126-5. https://doi.org/10.1016/j.eururo.2025.02.011.
 2.	Fan, Yu-Ping, Yu-Ting Zhang, Guiyuan Zhang, e.a. ‘Proteomic Profiling of Urinary Large Extracellular Vesicles for the Diagnosis of Prostate Cancer’. Analytical Chemistry, advance online publication, 16 juli 2025. https://doi.org/10.1021/acs.analchem.5c01320.
 3.	Saeed, Azad K., Panagiotis Triantafyllakis, Naheema S. Gordon, et al. “The Role of HAI-1 in Urothelial Bladder Cancer: Tissue Expression, Ectodomain Shedding and Clinical Outcomes.” Biochemistry and Biophysics Reports 46 (June 2026): 102600. https://doi.org/10.1016/j.bbrep.2026.102600.
