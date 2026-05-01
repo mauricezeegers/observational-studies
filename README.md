@@ -29,6 +29,8 @@ Current Researchers: Anke Wesselius, Marij Gielen, Farahnaz Haeri Mehrizy, Yimin
 
 ### Neurology & Psychiatry
 
+Current Projects: [MADYMO](https://osf.io/vhk2p/overview), 
+
 Current Researchers: Ellen Strommer, Fatemah Mirjalili, Jack Freeman, Joshua Goldenberg, Manuel Origgi, Rebecca Rodrigues, Maurice Zeegers
 
 1.	Zhang, Yu-Ting, Hao Zhang, Weichao Su, e.a. ‘Age-(in)Dependent Altered Molecular Mechanisms in Parkinson’s Disease through Extracellular Vesicle Proteome and Lipidome’. Cell Reports. Medicine, 5 november 2025, 102432. https://doi.org/10.1016/j.xcrm.2025.102432.
