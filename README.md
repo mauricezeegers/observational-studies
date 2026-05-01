@@ -9,7 +9,7 @@ The repository is organized around two research lines:
 
 ## [(Disease) Outcomes](https://github.com/mauricezeegers/disease-outcomes)
 
-# Oncology
+### Oncology
 Projects: UKBiobank, BCPP
 
 PhD Researchers: Anna-Roos Leerschool, Iris Boot, Manuel Origgi, Xiaoman Jin, Evan Wu, Yanan Dai, Yiming Chen, Yufeng Rao
