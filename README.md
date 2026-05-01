@@ -24,7 +24,7 @@ Current Projects: [SportNL DNA databank](https://www.maastrichtuniversity.nl/spo
 Current Researchers: Anke Wesselius, Marij Gielen, Farahnaz Haeri Mehrizy, Yiming Chen, Maurice Zeegers
 
 1.	Ren, Huiying, Qirong Qin, Quanbin Dong, e.a. ‘Smartphone-Measured Heart Sounds for Atrial Fibrillation Screening in Community Populations’. Circulation 152, nr. 4 (2025): 283-85. https://doi.org/10.1161/CIRCULATIONAHA.125.073828.
-2.	Rao, Yufeng, Shiqiu Meng, Evan Yi-Wen Yu, e.a. ‘Antidiabetic Medications and Bladder Cancer Risk in Type 2 Diabetes: A Systematic Review and Meta-Analysis of Randomized Controlled Trials’. Endocrine Practice: Official Journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists, 17 december 2025, S1530-891X(25)01328-X. https://doi.org/10.1016/j.eprac.2025.11.017.
+2.	Rao, Yufeng, Shiqiu Meng, Evan Yi-Wen Yu, e.a. ‘Antidiabetic Medications and Bladder Cancer Risk in Type 2 Diabetes: A Systematic Review and Meta-Analysis of Randomized Controlled Trials’. Endocrine Practice: Official Journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists, 17 december 2025, S1530-891X(25)01328-X. https://doi.org/10.1016/j.eprac.2025.11.017. [OSF](https://osf.io/hn2jg/overview)
 3.	Chen, Yiming, Enyu Tong, Yufeng Rao, Evan Yw Yu, Maurice Zeegers, en Anke Wesselius. ‘The Association between Insomnia (Related Symptoms) and Glycaemic Control: A Systematic Review and Meta-Analysis’. Journal of Global Health 15 (februari 2025): 04016. https://doi.org/10.7189/jogh.15.04016.
 
 ### Neurology & Psychiatry
