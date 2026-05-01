@@ -1,7 +1,10 @@
 # Observational Studies
-_Quality above Speed | Science above Ideology_
+
+**Quality above Speed | Science above Ideology**
+
 ---
-This page is part of the [central academic repository](https://github.com/mauricezeegers) of Prof. dr. Maurice Zeegers, Professor of Epidemiology at Maastricht University, the Netherlands.
+
+This is the age is part of the [central academic repository](https://github.com/mauricezeegers) of Prof. dr. Maurice Zeegers, Professor of Epidemiology at Maastricht University, the Netherlands.
 
 ---
 
