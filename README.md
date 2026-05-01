@@ -4,7 +4,7 @@ This page is part of the [central academic repository](https://github.com/mauric
 
 ---
 
-Observational studies (also called Real World Evidence, RWE) refers to clinical and epidemiological datasets derived from routinely collected human data outside the context of randomized controlled trials, such as patient registries, electronic health records and large population-based cohorts, to which we have access through multiple high-quality data sources. Our observational studies span multiple (disease) outcomes and determinants. For most researched areas, we provide selected example publications and projects.
+Observational studies (also called Real World Evidence, RWE) refers to clinical and epidemiological datasets derived from routinely collected human data outside the context of randomized controlled trials, such as patient registries, electronic health records and large population-based cohorts, to which we have access through multiple high-quality data sources. Our observational studies span multiple (disease) outcomes and determinants. For most researched areas, selected example publications and projects are provided.
 
 ## [(Disease) Outcomes](https://github.com/mauricezeegers/disease-outcomes)
 
