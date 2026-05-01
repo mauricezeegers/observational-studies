@@ -29,7 +29,7 @@ Current Researchers: Anke Wesselius, Marij Gielen, Farahnaz Haeri Mehrizy, Yimin
 
 ### Neurology & Psychiatry
 
-Current Projects: [MADYMO](https://osf.io/vhk2p/overview), 
+Current Projects: [MADYMO](https://osf.io/vhk2p/overview), [Forensic Mental Health Services](https://osf.io/vy6ez/overview)
 
 Current Researchers: Ellen Strommer, Fatemah Mirjalili, Jack Freeman, Joshua Goldenberg, Manuel Origgi, Rebecca Rodrigues, Maurice Zeegers
 
