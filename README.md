@@ -1,6 +1,6 @@
 # Observational Studies
 
-This page is part of the **[central academic repository](https://github.com/mauricezeegers)of Prof. dr. Maurice Zeegers, Professor of Epidemiology at Maastricht University, the Netherlands.
+This page is part of the [central academic repository](https://github.com/mauricezeegers) of Prof. dr. Maurice Zeegers, Professor of Epidemiology at Maastricht University, the Netherlands.
 
 ---
 
