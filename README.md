@@ -6,6 +6,8 @@ This page is part of the [central academic repository](https://github.com/mauric
 
 Observational studies (also called Real World Evidence, RWE) refers to clinical and epidemiological datasets derived from routinely collected human data outside the context of randomized controlled trials, such as patient registries, electronic health records and large population-based cohorts, to which we have access through multiple high-quality data sources. Our observational studies span multiple (disease) outcomes and determinants. For most researched areas, we provide selected example publications, projects and contact persons.
 
+---
+
 ## [(Disease) Outcomes](https://github.com/mauricezeegers/disease-outcomes)
 
 ### Oncology
@@ -49,10 +51,43 @@ Current Researchers: Anke Wesselius, Dritan Bejko, Piotre Wilk, Maurice Zeegers
 2.	Schmitz, Susanne, Tatjana T. Makovski, Roisin Adams, Marjan van den Akker, Saverio Stranges, en Maurice P. Zeegers. ‘Bayesian Hierarchical Models for Meta-Analysis of Quality-of-Life Outcomes: An Application in Multimorbidity’. PharmacoEconomics 38, nr. 1 (2020): 85-95. https://doi.org/10.1007/s40273-019-00843-z.
 3.	Osch, Frits H. M. van, Duncan Nekeman, Neil K. Aaronson, e.a. ‘Patients Choose Certainty over Burden in Bladder Cancer Surveillance’. World Journal of Urology, advance online publication, 23 maart 2019. https://doi.org/10.1007/s00345-019-02728-4.
 
+---
 
-## [Determinants](https://github.com/mauricezeegers/determinants)
-- Genetics  
-- Genomics  
-- Therapeutics  
-- Nutrition  
-- Environment  
+## Determinants
+
+# Genetics
+
+Current Projects: UKBiobank, BCPP, SportNL DNA databank, Maastricht Study,
+
+Current Researchers: Anna-Roos Leerschool, Fatemah Mirjalili, Xiaoman Jin, Yanan Dai, Yiming Chen, Yufeng Rao
+
+1.	Dai, Ya-Nan, Evan Yi-Wen Yu, Maurice P. Zeegers, en Anke Wesselius. ‘The Association between Diet and Bladder Cancer Risk: A Two-Sample Mendelian Randomization’. European Journal of Nutrition 64, nr. 5 (2025): 223. https://doi.org/10.1007/s00394-025-03743-5.
+2.	Leerschool, Anna Roos, Anke Wesselius, Daša Kokole, en Maurice P. Zeegers. ‘Changes in Acceptability, Consideration, Intention, and Uptake of Direct-to-Consumer Genetic Tests in the Netherlands from 2017 to 2022’. Journal of Genetic Counseling 34, nr. 1 (2025): e1919. https://doi.org/10.1002/jgc4.1919.
+3.	Rao, Yufeng, Evan Yi-Wen Yu, Tzu-Yao Lin, e.a. ‘Interaction between Coffee Consumption and Polygenic Risk Score in Relation to Diabetes: Insights from the Maastricht Study’. European Journal of Nutrition 64, nr. 6 (2025): 263. https://doi.org/10.1007/s00394-025-03782-y.
+Genomics 
+Contact: Dr. Anke Wesselius, Prof.dr. Maurice Zeegers
+Projects: UKBiobank, BCPP, Maastricht Study,
+PhD Researchers: Manuel Origgi, Xiaoman Jin
+1.	Saeed, Azad K., Panagiotis Triantafyllakis, Naheema S. Gordon, et al. “The Role of HAI-1 in Urothelial Bladder Cancer: Tissue Expression, Ectodomain Shedding and Clinical Outcomes.” Biochemistry and Biophysics Reports 46 (June 2026): 102600. https://doi.org/10.1016/j.bbrep.2026.102600.
+2.	Goel, Anshita, Benjamin J. Tura, Joanne D. Stockton, e.a. ‘Detection of Genome-Wide Methylation Changes in Bladder Cancer by Long-Read Sequencing of Urinary DNA’. Clinical Epigenetics 17, nr. 1 (2025): 141. https://doi.org/10.1186/s13148-025-01946-5.
+3.	Yu, Minghao, Anshita Goel, Benjamin Tura, e.a. ‘Towards Epigenetic-Based Subtyping of Bladder Cancer: DNA Methylation Predicts Molecular Subtypes of Non-Muscle-Invasive Bladder Cancer’. European Urology, 7 maart 2025, S0302-2838(25)00126-5. https://doi.org/10.1016/j.eururo.2025.02.011.
+Therapeutics
+Contact: Prof.dr. Maurice Zeegers
+PhD Researchers: Xiaoman Jin, Yufeng Rao
+1.	Ye, Tian, Benjamin Tura, Ben Abbotts, e.a. ‘Clinical Outcomes of BCG-Treated Patients with High-Risk Non-Muscle-Invasive Bladder Cancer According to Pre- and Post-2021 European Association of Urology Risk Classifications’. BJU International, advance online publication, 23 maart 2026. https://doi.org/10.1111/bju.70247.
+2.	Rao, Yufeng, Shiqiu Meng, Evan Yi-Wen Yu, e.a. ‘Antidiabetic Medications and Bladder Cancer Risk in Type 2 Diabetes: A Systematic Review and Meta-Analysis of Randomized Controlled Trials’. Endocrine Practice: Official Journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists, 17 december 2025, S1530-891X(25)01328-X. https://doi.org/10.1016/j.eprac.2025.11.017.
+3.	Zhang, Hao, Gui-Yuan Zhang, Wei-Chao Su, e.a. ‘High Throughput Isolation and Data Independent Acquisition Mass Spectrometry (DIA-MS) of Urinary Extracellular Vesicles to Improve Prostate Cancer Diagnosis’. Molecules (Basel, Switzerland) 27, nr. 23 (2022): 8155. https://doi.org/10.3390/molecules27238155.
+Nutrition
+Contact: Dr. Anke Wesselius, Prof.dr. Maurice Zeegers
+PhD Researchers: Farahnaz Haeri Mehrizy, Fatemah Mirjalili, Iris Boot, Raman Mahajan, Yanan Dai, Yiming Chen, Yufeng Rao
+1.	Rao, Yufeng, Evan Yi-Wen Yu, Tzu-Yao Lin, e.a. ‘Interaction between Coffee Consumption and Polygenic Risk Score in Relation to Diabetes: Insights from the Maastricht Study’. European Journal of Nutrition 64, nr. 6 (2025): 263. https://doi.org/10.1007/s00394-025-03782-y.
+2.	Rostampoor, Zahra, Sima Afrashteh, Mohammad Mohammadianpanah, Haleh Ghaem, Maurice P. Zeegers, en Mohammad Fararouei. ‘Lifestyle, Dietary Pattern and Colorectal Cancer: A Case-Control Study’. BMC Nutrition 10, nr. 1 (2024): 138. https://doi.org/10.1186/s40795-024-00950-x.
+3.	Zhang, Yan-Xi, Richard Albers, Ya-Ting Chen, e.a. ‘The Association between Tea Consumption and Bladder Cancer Risk Based on the Bladder Cancer Epidemiology and Nutritional Determinants (BLEND) International Consortium’. Nutrition and Cancer, 8 april 2025, 1-12. https://doi.org/10.1080/01635581.2025.2488063.
+Environment
+Contact: Dr. Marij Gielen, Prof.dr. Maurice Zeegers
+PhD Researchers: Ellen Strömmer
+1.	Strömmer, E. M. F., Wendy Leith, Maurice P. Zeegers, en Michael D. Freeman. ‘Injuries Due to Law Enforcement Use of Force in the United States, 2006-2015: Trends in Severity and by Race’. Journal of Racial and Ethnic Health Disparities, advance online publication, 8 augustus 2023. https://doi.org/10.1007/s40615-023-01733-z.
+2.	Figaroa, M. N. S., M. Gielen, L. Casas, e.a. ‘Early-Life Residential Green Spaces and Traffic Exposure in Association with Young Adult Body Composition: A Longitudinal Birth Cohort Study of Twins’. Environmental Health: A Global Access Science Source 22, nr. 1 (2023): 18. https://doi.org/10.1186/s12940-023-00964-1.
+3.	Verhaegh, Bas P. M., Esmee M. Bijnens, Tim R. A. van den Heuvel, e.a. ‘Ambient Air Quality as Risk Factor for Microscopic Colitis - A Geographic Information System (GIS) Study’. Environmental Research 178 (november 2019): 108710. https://doi.org/10.1016/j.envres.2019.108710.
+<img width="468" height="641" alt="image" src="https://github.com/user-attachments/assets/bf4d0c3f-1918-48bc-be03-a0ddd1e2e33a" />
+
