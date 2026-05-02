@@ -9,7 +9,7 @@ Observational studies (also called Real World Evidence, RWE) refers to clinical 
 ## [(Disease) Outcomes](https://github.com/mauricezeegers/disease-outcomes)
 
 ### Oncology
-Current Projects: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](https://www.birmingham.ac.uk/research/projects/bladder-cancer-prognosis-programme-bcpp)
+Current Projects/Datasets: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](https://www.birmingham.ac.uk/research/projects/bladder-cancer-prognosis-programme-bcpp)
 
 Current Researchers: Anke Wesselius, Anna-Roos Leerschool, Iris Boot, Manuel Origgi, Xiaoman Jin, Evan Wu, Yanan Dai, Yiming Chen, Yufeng Rao, Maurice Zeegers
 
@@ -19,7 +19,7 @@ Current Researchers: Anke Wesselius, Anna-Roos Leerschool, Iris Boot, Manuel Ori
 
 ### Cardiovascular & Metabolic Diseases 
 
-Current Projects: [SportNL DNA databank](https://www.maastrichtuniversity.nl/sportnl-dna-databank), [Maastricht Study](https://www.demaastrichtstudie.nl), [MEFAB](https://www.maastrichtuniversity.nl/mefab)
+Current Projects/Datasets: [SportNL DNA databank](https://www.maastrichtuniversity.nl/sportnl-dna-databank), [Maastricht Study](https://www.demaastrichtstudie.nl), [MEFAB](https://www.maastrichtuniversity.nl/mefab)
 
 Current Researchers: Anke Wesselius, Marij Gielen, Farahnaz Haeri Mehrizy, Yiming Chen, Maurice Zeegers
 
@@ -29,7 +29,7 @@ Current Researchers: Anke Wesselius, Marij Gielen, Farahnaz Haeri Mehrizy, Yimin
 
 ### Neurology & Psychiatry
 
-Current Projects: [MADYMO](https://osf.io/vhk2p/overview), [Forensic Mental Health Services](https://osf.io/vy6ez/overview), [Forensic Hospitalisation following Psychotic Disorder](https://osf.io/trbc5/overview)
+Current Projects/Datasets: [MADYMO](https://osf.io/vhk2p/overview), [Forensic Mental Health Services](https://osf.io/vy6ez/overview), [Forensic Hospitalisation following Psychotic Disorder](https://osf.io/trbc5/overview)
 
 Current Researchers: Ellen Strommer, Fatemah Mirjalili, Jack Freeman, Joshua Goldenberg, Manuel Origgi, Rebecca Rodrigues, Maurice Zeegers
 
@@ -55,7 +55,7 @@ Current Researchers: Anke Wesselius, Dritan Bejko, Piotre Wilk, Maurice Zeegers
 
 ### Genetics
 
-Current Projects: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](https://www.birmingham.ac.uk/research/projects/bladder-cancer-prognosis-programme-b), [SportNL DNA databank](https://www.maastrichtuniversity.nl/sportnl-dna-databank), [Maastricht Study](https://www.demaastrichtstudie.nl)
+Current Projects/Datasets: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](https://www.birmingham.ac.uk/research/projects/bladder-cancer-prognosis-programme-b), [SportNL DNA databank](https://www.maastrichtuniversity.nl/sportnl-dna-databank), [Maastricht Study](https://www.demaastrichtstudie.nl)
 
 Current Researchers: Anke Wesselius, Anna-Roos Leerschool, Fatemah Mirjalili, Xiaoman Jin, Yanan Dai, Yiming Chen, Yufeng Rao, Maurice Zeegers
 
@@ -65,7 +65,7 @@ Current Researchers: Anke Wesselius, Anna-Roos Leerschool, Fatemah Mirjalili, Xi
 
 ### Genomics 
 
-Current Projects: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](https://www.birmingham.ac.uk/research/projects/bladder-cancer-prognosis-programme-b),[Maastricht Study](https://www.demaastrichtstudie.nl)
+Current Projects/Datasets: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](https://www.birmingham.ac.uk/research/projects/bladder-cancer-prognosis-programme-b),[Maastricht Study](https://www.demaastrichtstudie.nl)
 
 Current Researchers: Anke Wesselius, Manuel Origgi, Xiaoman Jin, Maurice Zeegers
 
@@ -83,7 +83,7 @@ Current Researchers: Anke Wesselius, Xiaoman Jin, Yufeng Rao, Maurice Zeegers
 
 ### Nutrition
 
-Current Projects: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](https://www.birmingham.ac.uk/research/projects/bladder-cancer-prognosis-programme-b),[Maastricht Study](https://www.demaastrichtstudie.nl) [MEFAB](https://www.maastrichtuniversity.nl/mefab)
+Current Projects/Datasets: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](https://www.birmingham.ac.uk/research/projects/bladder-cancer-prognosis-programme-b),[Maastricht Study](https://www.demaastrichtstudie.nl) [MEFAB](https://www.maastrichtuniversity.nl/mefab)
 
 Current Researchers: Anke Wesselius, Marij Gielen, Farahnaz Haeri Mehrizy, Fatemah Mirjalili, Iris Boot, Raman Mahajan, Yanan Dai, Yiming Chen, Yufeng Rao, Maurice Zeegers
 
