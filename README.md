@@ -29,7 +29,7 @@ Current Researchers: Anke Wesselius, Marij Gielen, Farahnaz Haeri Mehrizy, Yimin
 
 ### Neurology & Psychiatry
 
-Current Projects/Datasets: [MADYMO](https://osf.io/vhk2p/overview), [Forensic Mental Health Services](https://osf.io/vy6ez/overview), [Forensic Hospitalisation following Psychotic Disorder](https://osf.io/trbc5/overview)
+Current Projects/Datasets: [MADYMO](https://osf.io/vhk2p/overview), [Forensic Mental Health Services](https://osf.io/vy6ez/overview), [Forensic Hospitalisation following Psychotic Disorder](https://osf.io/trbc5/overview), USA NASS-CDS, Canadian Health Administrative Data (ICES)
 
 Current Researchers: Ellen Strommer, Fatemah Mirjalili, Jack Freeman, Joshua Goldenberg, Manuel Origgi, Rebecca Rodrigues, Maurice Zeegers
 
@@ -38,6 +38,8 @@ Current Researchers: Ellen Strommer, Fatemah Mirjalili, Jack Freeman, Joshua Gol
 3.	Leith, Wendy M., Maurice P. Zeegers, en Michael D. Freeman. ‘A Predictive Model for Perinatal Hypoxic Ischemic Encephalopathy Using Linked Maternal and Neonatal Hospital Data’. Annals of Epidemiology 89 (januari 2024): 29-36. https://doi.org/10.1016/j.annepidem.2023.11.011.
 
 ### Infectious Diseases
+
+Current Projects/Datasets: [Luxembourg Health Data](https://igss.gouvernement.lu/fr/microdata-platform.html)
 
 Current Researchers: Anke Wesselius, Dritan Bejko, Piotre Wilk, Maurice Zeegers
 
