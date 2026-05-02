@@ -67,7 +67,7 @@ Current Researchers: Anke Wesselius, Anna-Roos Leerschool, Fatemah Mirjalili, Xi
 
 ### Genomics 
 
-Current Projects/Datasets: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](https://www.birmingham.ac.uk/research/projects/bladder-cancer-prognosis-programme-b),[Maastricht Study](https://www.demaastrichtstudie.nl)
+Current Projects/Datasets: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](https://www.birmingham.ac.uk/research/projects/bladder-cancer-prognosis-programme-b), [Maastricht Study](https://www.demaastrichtstudie.nl)
 
 Current Researchers: Anke Wesselius, Manuel Origgi, Xiaoman Jin, Maurice Zeegers
 
