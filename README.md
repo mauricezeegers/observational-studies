@@ -95,6 +95,8 @@ Current Researchers: Anke Wesselius, Marij Gielen, Farahnaz Haeri Mehrizy, Fatem
 
 ### Environment
 
+Current Projects/Datasets: [USA Hospital Data](https://www.ahrq.gov/data/hcup/index.html), [EFPTS](https://backoffice.biblio.ugent.be/download/8679442/8679443)
+
 Current Researchers: Marij Gielen, Ellen Strömmer, Maurice Zeegers
 
 1.	Strömmer, E. M. F., Wendy Leith, Maurice P. Zeegers, en Michael D. Freeman. ‘Injuries Due to Law Enforcement Use of Force in the United States, 2006-2015: Trends in Severity and by Race’. Journal of Racial and Ethnic Health Disparities, advance online publication, 8 augustus 2023. https://doi.org/10.1007/s40615-023-01733-z.
