@@ -71,9 +71,9 @@ Current Projects/Datasets: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](http
 
 Current Researchers: Anke Wesselius, Manuel Origgi, Xiaoman Jin, Maurice Zeegers
 
-1.	Saeed, Azad K., Panagiotis Triantafyllakis, Naheema S. Gordon, et al. “The Role of HAI-1 in Urothelial Bladder Cancer: Tissue Expression, Ectodomain Shedding and Clinical Outcomes.” Biochemistry and Biophysics Reports 46 (June 2026): 102600. https://doi.org/10.1016/j.bbrep.2026.102600.
-2.	Goel, Anshita, Benjamin J. Tura, Joanne D. Stockton, e.a. ‘Detection of Genome-Wide Methylation Changes in Bladder Cancer by Long-Read Sequencing of Urinary DNA’. Clinical Epigenetics 17, nr. 1 (2025): 141. https://doi.org/10.1186/s13148-025-01946-5.
-3.	Yu, Minghao, Anshita Goel, Benjamin Tura, e.a. ‘Towards Epigenetic-Based Subtyping of Bladder Cancer: DNA Methylation Predicts Molecular Subtypes of Non-Muscle-Invasive Bladder Cancer’. European Urology, 7 maart 2025, S0302-2838(25)00126-5. https://doi.org/10.1016/j.eururo.2025.02.011.
+1.  Neil, Jessica L., Naheema S. Gordon, Anshita Goel, e.a. ‘Development of an Extended Version of GALEAS Bladder: Detection of FGFR3 Fusions in Urine and Associations between Genomic Alterations and Gene Expression’. Bladder Cancer (Amsterdam, Netherlands) 12, nr. 2 (2026): 23523735261447112. https://doi.org/10.1177/23523735261447112.
+2.	Saeed, Azad K., Panagiotis Triantafyllakis, Naheema S. Gordon, et al. “The Role of HAI-1 in Urothelial Bladder Cancer: Tissue Expression, Ectodomain Shedding and Clinical Outcomes.” Biochemistry and Biophysics Reports 46 (June 2026): 102600. https://doi.org/10.1016/j.bbrep.2026.102600.
+3.	Goel, Anshita, Benjamin J. Tura, Joanne D. Stockton, e.a. ‘Detection of Genome-Wide Methylation Changes in Bladder Cancer by Long-Read Sequencing of Urinary DNA’. Clinical Epigenetics 17, nr. 1 (2025): 141. https://doi.org/10.1186/s13148-025-01946-5.
 
 ### Therapeutics
 
@@ -91,9 +91,9 @@ Current Projects/Datasets: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](http
 
 Current Researchers: Anke Wesselius, Marij Gielen, Farahnaz Haeri Mehrizy, Fatemah Mirjalili, Iris Boot, Raman Mahajan, Yanan Dai, Yiming Chen, Yufeng Rao, Maurice Zeegers
 
-1.	Rao, Yufeng, Evan Yi-Wen Yu, Tzu-Yao Lin, e.a. ‘Interaction between Coffee Consumption and Polygenic Risk Score in Relation to Diabetes: Insights from the Maastricht Study’. European Journal of Nutrition 64, nr. 6 (2025): 263. https://doi.org/10.1007/s00394-025-03782-y.
-2.	Rostampoor, Zahra, Sima Afrashteh, Mohammad Mohammadianpanah, Haleh Ghaem, Maurice P. Zeegers, en Mohammad Fararouei. ‘Lifestyle, Dietary Pattern and Colorectal Cancer: A Case-Control Study’. BMC Nutrition 10, nr. 1 (2024): 138. https://doi.org/10.1186/s40795-024-00950-x.
-3.	Zhang, Yan-Xi, Richard Albers, Ya-Ting Chen, e.a. ‘The Association between Tea Consumption and Bladder Cancer Risk Based on the Bladder Cancer Epidemiology and Nutritional Determinants (BLEND) International Consortium’. Nutrition and Cancer, 8 april 2025, 1-12. https://doi.org/10.1080/01635581.2025.2488063.
+1.  Dai, Ya-Nan, Benjamin Tura, Evan Yi-Wen Yu, e.a. ‘Pro-Inflammatory Diet Predicts Poorer Survival in Bladder Cancer: Results from the Bladder Cancer Prognosis Programme’. Clinical Nutrition (Edinburgh, Scotland) 62 (mei 2026): 106679. https://doi.org/10.1016/j.clnu.2026.106679.
+2.	Rao, Yufeng, Evan Yi-Wen Yu, Tzu-Yao Lin, e.a. ‘Interaction between Coffee Consumption and Polygenic Risk Score in Relation to Diabetes: Insights from the Maastricht Study’. European Journal of Nutrition 64, nr. 6 (2025): 263. https://doi.org/10.1007/s00394-025-03782-y.
+3.	Rostampoor, Zahra, Sima Afrashteh, Mohammad Mohammadianpanah, Haleh Ghaem, Maurice P. Zeegers, en Mohammad Fararouei. ‘Lifestyle, Dietary Pattern and Colorectal Cancer: A Case-Control Study’. BMC Nutrition 10, nr. 1 (2024): 138. https://doi.org/10.1186/s40795-024-00950-x.
 
 ### Environment
 
