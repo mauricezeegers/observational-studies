@@ -91,7 +91,7 @@ Current Projects/Datasets: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](http
 
 Current Researchers: Anke Wesselius, Marij Gielen, Farahnaz Haeri Mehrizy, Fatemah Mirjalili, Iris Boot, Raman Mahajan, Yanan Dai, Yiming Chen, Yufeng Rao, Maurice Zeegers
 
-1.  Dai, Ya-Nan, Benjamin Tura, Evan Yi-Wen Yu, e.a. ‘Pro-Inflammatory Diet Predicts Poorer Survival in Bladder Cancer: Results from the Bladder Cancer Prognosis Programme’. Clinical Nutrition (Edinburgh, Scotland) 62 (mei 2026): 106679. https://doi.org/10.1016/j.clnu.2026.106679.
+1. Dai, Ya-Nan, Benjamin Tura, Evan Yi-Wen Yu, e.a. “Pro-Inflammatory Diet Predicts Poorer Survival in Bladder Cancer: Results from the Bladder Cancer Prognosis Programme”. Clinical Nutrition (Edinburgh, Scotland) 62 (juli 2026): 106679. https://doi.org/10.1016/j.clnu.2026.106679.
 2.	Rao, Yufeng, Evan Yi-Wen Yu, Tzu-Yao Lin, e.a. ‘Interaction between Coffee Consumption and Polygenic Risk Score in Relation to Diabetes: Insights from the Maastricht Study’. European Journal of Nutrition 64, nr. 6 (2025): 263. https://doi.org/10.1007/s00394-025-03782-y.
 3.	Rostampoor, Zahra, Sima Afrashteh, Mohammad Mohammadianpanah, Haleh Ghaem, Maurice P. Zeegers, en Mohammad Fararouei. ‘Lifestyle, Dietary Pattern and Colorectal Cancer: A Case-Control Study’. BMC Nutrition 10, nr. 1 (2024): 138. https://doi.org/10.1186/s40795-024-00950-x.
 
