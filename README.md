@@ -61,7 +61,7 @@ Current Projects/Datasets: [UKBiobank](https://www.ukbiobank.ac.uk), [BCPP](http
 
 Current Researchers: Anke Wesselius, Anna-Roos Leerschool, Fatemah Mirjalili, Xiaoman Jin, Yanan Dai, Yiming Chen, Yufeng Rao, Maurice Zeegers
 
-1.	Dai, Ya-Nan, Evan Yi-Wen Yu, Maurice P. Zeegers, en Anke Wesselius. ‘The Association between Diet and Bladder Cancer Risk: A Two-Sample Mendelian Randomization’. European Journal of Nutrition 64, nr. 5 (2025): 223. https://doi.org/10.1007/s00394-025-03743-5.
+1. Hof, Jasper P., Tessel E. Galesloot, Katja K. H. Aben, et al. “Comprehensive Genome-Wide Association Study into Multiple Recurrence and Progression Risk in Non-Muscle Invasive Bladder Cancer.” Cancer Genetics 306–307 (June 2026): 106–15. https://doi.org/10.1016/j.cancergen.2026.06.004.
 2.	Leerschool, Anna Roos, Anke Wesselius, Daša Kokole, en Maurice P. Zeegers. ‘Changes in Acceptability, Consideration, Intention, and Uptake of Direct-to-Consumer Genetic Tests in the Netherlands from 2017 to 2022’. Journal of Genetic Counseling 34, nr. 1 (2025): e1919. https://doi.org/10.1002/jgc4.1919. [OSF](https://osf.io/mw2gs/overview)
 3.	Rao, Yufeng, Evan Yi-Wen Yu, Tzu-Yao Lin, e.a. ‘Interaction between Coffee Consumption and Polygenic Risk Score in Relation to Diabetes: Insights from the Maastricht Study’. European Journal of Nutrition 64, nr. 6 (2025): 263. https://doi.org/10.1007/s00394-025-03782-y. [OSF](https://osf.io/afphx/overview)
 
