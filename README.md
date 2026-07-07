@@ -33,9 +33,9 @@ Current Projects/Datasets: [MADYMO](https://osf.io/vhk2p/overview), [Forensic Me
 
 Current Researchers: Ellen Strommer, Fatemah Mirjalili, Jack Freeman, Joshua Goldenberg, Manuel Origgi, Rebecca Rodrigues, Maurice Zeegers
 
-1.	Zhang, Yu-Ting, Hao Zhang, Weichao Su, e.a. ‘Age-(in)Dependent Altered Molecular Mechanisms in Parkinson’s Disease through Extracellular Vesicle Proteome and Lipidome’. Cell Reports. Medicine, 5 november 2025, 102432. https://doi.org/10.1016/j.xcrm.2025.102432.
-2.	Hanff, Anne-Marie, Christopher McCrum, Armin Rauschenberger, e.a. ‘Sex-Specific Progression of Parkinson’s Disease: A Longitudinal Mixed-Models Analysis’. Journal of Parkinson’s Disease 15, nr. 4 (2025): 805-18. https://doi.org/10.1177/1877718X251339201. [OSF](https://osf.io/4vaws/overview)
-3.	Leith, Wendy M., Maurice P. Zeegers, en Michael D. Freeman. ‘A Predictive Model for Perinatal Hypoxic Ischemic Encephalopathy Using Linked Maternal and Neonatal Hospital Data’. Annals of Epidemiology 89 (januari 2024): 29-36. https://doi.org/10.1016/j.annepidem.2023.11.011.
+1. Mirjalili, Fatemeh, Sara Jambarsang, Ehsan Farashahi Yazd, et al. “Adherence to Empirically Derived Dietary Patterns and Risk of Depression Symptoms and Anxiety Disorder: The Maastricht Cohort Study.” The American Journal of Clinical Nutrition, June 26, 2026, 101415. https://doi.org/10.1016/j.ajcnut.2026.101415.
+2.	Zhang, Yu-Ting, Hao Zhang, Weichao Su, e.a. ‘Age-(in)Dependent Altered Molecular Mechanisms in Parkinson’s Disease through Extracellular Vesicle Proteome and Lipidome’. Cell Reports. Medicine, 5 november 2025, 102432. https://doi.org/10.1016/j.xcrm.2025.102432.
+3.	Hanff, Anne-Marie, Christopher McCrum, Armin Rauschenberger, e.a. ‘Sex-Specific Progression of Parkinson’s Disease: A Longitudinal Mixed-Models Analysis’. Journal of Parkinson’s Disease 15, nr. 4 (2025): 805-18. https://doi.org/10.1177/1877718X251339201. [OSF](https://osf.io/4vaws/overview)
 
 ### Infectious Diseases
 
