@@ -93,7 +93,7 @@ Current Researchers: Anke Wesselius, Marij Gielen, Farahnaz Haeri Mehrizy, Fatem
 
 1. Dai, Ya-Nan, Benjamin Tura, Evan Yi-Wen Yu, e.a. “Pro-Inflammatory Diet Predicts Poorer Survival in Bladder Cancer: Results from the Bladder Cancer Prognosis Programme”. Clinical Nutrition (Edinburgh, Scotland) 62 (juli 2026): 106679. https://doi.org/10.1016/j.clnu.2026.106679.
 2.	Rao, Yufeng, Evan Yi-Wen Yu, Tzu-Yao Lin, e.a. ‘Interaction between Coffee Consumption and Polygenic Risk Score in Relation to Diabetes: Insights from the Maastricht Study’. European Journal of Nutrition 64, nr. 6 (2025): 263. https://doi.org/10.1007/s00394-025-03782-y.
-3.	Rostampoor, Zahra, Sima Afrashteh, Mohammad Mohammadianpanah, Haleh Ghaem, Maurice P. Zeegers, en Mohammad Fararouei. ‘Lifestyle, Dietary Pattern and Colorectal Cancer: A Case-Control Study’. BMC Nutrition 10, nr. 1 (2024): 138. https://doi.org/10.1186/s40795-024-00950-x.
+3.	Chen, Yiming, Enyu Tong, Xiaoman Jin, e.a. 'Mediterranean Diet Adherence, Healthy Sleep, and Lung Cancer Risk: A Prospective Study of 192,034 UK Biobank Participants'. European Journal of Nutrition 65, nr. 6 (augustus 2026): 244. https://doi.org/10.1007/s00394-026-04080-x.
 
 ### Environment
 
@@ -103,4 +103,4 @@ Current Researchers: Marij Gielen, Ellen Strömmer, Maurice Zeegers
 
 1.	Strömmer, E. M. F., Wendy Leith, Maurice P. Zeegers, en Michael D. Freeman. ‘Injuries Due to Law Enforcement Use of Force in the United States, 2006-2015: Trends in Severity and by Race’. Journal of Racial and Ethnic Health Disparities, advance online publication, 8 augustus 2023. https://doi.org/10.1007/s40615-023-01733-z.
 2.	Figaroa, M. N. S., M. Gielen, L. Casas, e.a. ‘Early-Life Residential Green Spaces and Traffic Exposure in Association with Young Adult Body Composition: A Longitudinal Birth Cohort Study of Twins’. Environmental Health: A Global Access Science Source 22, nr. 1 (2023): 18. https://doi.org/10.1186/s12940-023-00964-1.
-3.	Verhaegh, Bas P. M., Esmee M. Bijnens, Tim R. A. van den Heuvel, e.a. ‘Ambient Air Quality as Risk Factor for Microscopic Colitis - A Geographic Information System (GIS) Study’. Environmental Research 178 (november 2019): 108710. https://doi.org/10.1016/j.envres.2019.108710.
+3.	Liu, Wei, Ya-Ting Chen, Baiwenrui Tao, e.a. 'Modeling the Complex Smoking Exposure History in Assessment of Pan-Cancer Risk'. MedScience (augustus 2026). https://doi.org/10.1007/s11684-026-1244-9.
