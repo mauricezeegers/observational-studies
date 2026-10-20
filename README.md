@@ -73,7 +73,7 @@ Current Researchers: Anke Wesselius, Manuel Origgi, Xiaoman Jin, Maurice Zeegers
 
 1.  Neil, Jessica L., Naheema S. Gordon, Anshita Goel, e.a. ‘Development of an Extended Version of GALEAS Bladder: Detection of FGFR3 Fusions in Urine and Associations between Genomic Alterations and Gene Expression’. Bladder Cancer (Amsterdam, Netherlands) 12, nr. 2 (2026): 23523735261447112. https://doi.org/10.1177/23523735261447112.
 2.	Saeed, Azad K., Panagiotis Triantafyllakis, Naheema S. Gordon, et al. “The Role of HAI-1 in Urothelial Bladder Cancer: Tissue Expression, Ectodomain Shedding and Clinical Outcomes.” Biochemistry and Biophysics Reports 46 (June 2026): 102600. https://doi.org/10.1016/j.bbrep.2026.102600.
-3.	Goel, Anshita, Benjamin J. Tura, Joanne D. Stockton, e.a. ‘Detection of Genome-Wide Methylation Changes in Bladder Cancer by Long-Read Sequencing of Urinary DNA’. Clinical Epigenetics 17, nr. 1 (2025): 141. https://doi.org/10.1186/s13148-025-01946-5.
+3.	Humayun-Zakaria, Nada, Minghao Yu, Anshita Goel, e.a. ‘Transcriptomic Profiling of Tropomyosin Isoforms in Bladder Cancer: Multi-Platform Sequencing and Experimental Validation’. Scientific Reports, advance online publication, 17 oktober 2026. https://doi.org/10.1038/s41598-026-66033-y.
 
 ### Therapeutics
 
